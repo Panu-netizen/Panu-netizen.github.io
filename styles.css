@@ -15,7 +15,7 @@ p {font-size:12px;
 }
 
 
- .border {
+ div .border {
   border-style:dotted;
   border-width:2px;
   height:100px;
