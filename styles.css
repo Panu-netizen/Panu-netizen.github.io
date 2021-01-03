@@ -10,15 +10,15 @@ h1 {font-size:20px;
 }
 
 p {font-size:12px;
-  color:green;
+  color:#00FF00;
  
 }
 
 
  div .border {
   border: 2px dotted;
-  background-height:100px;
-  background-width:100px;
+  box-sizing: border-box 100px;
+  
    
  }
 
