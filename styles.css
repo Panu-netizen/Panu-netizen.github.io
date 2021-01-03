@@ -16,10 +16,9 @@ p {font-size:12px;
 
 
  div .border {
-  border-style:dotted;
-  border-width:2px;
-  height:100px;
-  width:100px;
+  border: 2px dotted;
+  background-height:100px;
+  background-width:100px;
    
  }
 
