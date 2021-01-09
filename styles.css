@@ -6,6 +6,10 @@ body {color:#000000;
 
 h1 {font-size:20px;
  border: 2px solid #FF00000;
+ margin-top:100px;
+ margin-bottom:100x;
+ margin-right:150px;
+ margin-left:50px;
  
 }
 
@@ -14,6 +18,11 @@ p {font-size:12px;
  background-color:#FFFFFF;
  border: 2px solid #FF00000;
  border-radius:5px;
+ padding-top:50px;
+ padding-right:80px;
+ padding-bottom:50px;
+ padding-left:30px;
+
 }
 
 
