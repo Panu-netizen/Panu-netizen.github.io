@@ -6,11 +6,30 @@ body {width:90%;
  color:#000000;
   background-color:#FFFFFF;  
 }
-#header
+#header { background-color:#666;
+ padding: 30px;
+ text-align: center;
+ font-size: 35px;
+  color: white;
+}
 
-#nav
+#nav { float: left;
+ width: 30% ;
+  height: 300px;
+ background: #ccc;
+  padding: 20px;
+}
 
-#section
+#section { content: "";
+ display: table;
+ clear: both;
+ }
+ 
+ footer { background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color:white;
+}
 
 
 h1 {font-size:20px;
