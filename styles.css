@@ -24,7 +24,6 @@ nav { float: left;
 nav ul { list-style-type: none;
  margin: 0;
  padding: 0;
- width: 200px;
 }
 li a { display: block;
  color: #000;
@@ -42,7 +41,6 @@ article {
  padding: 10px;
  width: 70%;
  background-color: #f1f1f1;
- height: 300px;
 }
   
 
@@ -57,7 +55,12 @@ section { content: "";
   color: white;
   width: 70%;
 }
-
+@media (max-width: 600px) {
+ nav, article {
+  width:100%;
+  height: auto;
+ }
+}
 
 h1 {font-size:20px;
  border: 2px solid #FF0000;
