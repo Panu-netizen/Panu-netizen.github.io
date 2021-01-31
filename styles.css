@@ -16,6 +16,10 @@ header { background-color:#666;
   color: white;
 }
 
+a.highlight:hover {
+ color: #ff0000;
+}
+
 nav-div { 
  float: left;
  width: 20% ;
