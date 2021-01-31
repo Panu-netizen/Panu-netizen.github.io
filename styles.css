@@ -1,6 +1,4 @@
-{ 
- box-sizing: border-box;
-}
+
 
 body {font-family: Arial, Helvetica, sans-serif;
  width:90%;
@@ -24,7 +22,7 @@ nav-div {
  float: left;
  width: 20% ;
  text-align: center;
- overflow:auto;: 10px;
+ overflow:auto;
 }
 
 nav ul { list-style-type: none;
